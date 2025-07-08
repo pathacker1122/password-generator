@@ -2,6 +2,7 @@
 
 import random
 import os
+import webbrowser
 
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
